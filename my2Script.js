@@ -5,6 +5,7 @@ I CANNOT FIND OR UNDERTSAND WHY I CANNOT GET CERTAIN ALERTS TO COME UP EVEN UPON
 If you have answers or advice please help me. I'm not looking to steal your code or anything of the sort, i just need help understanding the correct 
 execution for this supposedly super simple project. I have literally spent more then 20hrs on this project alone and im sick of F#@*ING LOOKING AT IT!!!!!!!!!!!
 Anyone willing to help me has my utmost permission to manipulate this code with the idea of assisting me in understanding my mistakes. 
+FYI Any console.logs found in if-statements in some of the code would generally be placed with "alert"
 */
 
 var wins = 0;
