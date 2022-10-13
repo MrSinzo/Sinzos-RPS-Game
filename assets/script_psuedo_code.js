@@ -60,3 +60,12 @@ if (userChoices === "s" && computerChoices === "s") {
 document.querySelector(computerChoices);
 
 var input = confirm("Did you want to play again?");
+
+
+//Instructor 
+/*
+
+
+
+
+*/

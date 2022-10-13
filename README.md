@@ -1,2 +1,2 @@
 # Sinzos-RPS-Game
-A (should have been ) simple game of Rock, Paper, Scissors
+Javascript can be a nightmare!
